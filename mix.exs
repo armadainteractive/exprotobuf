@@ -29,7 +29,7 @@ defmodule Protobuf.Mixfile do
   end
 
   defp deps do
-    [{:gpb, git: "https://github.com/tomas-abrahamsson/gpb", branch: "proto3"},
+    [{:gpb, "~> 3.22.3"},
      {:earmark, "~> 0.1", only: :dev},
      {:ex_doc, "~> 0.9", only: :dev}]
   end

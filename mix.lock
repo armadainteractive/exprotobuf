@@ -1,3 +1,3 @@
 %{"earmark": {:hex, :earmark, "0.1.17", "a2269e72ff85501bdb58c2de9edc0a9a17a4be2757883eed1f601b30494ed2bf", [:mix], []},
   "ex_doc": {:hex, :ex_doc, "0.9.0", "e59f4550dc78a07b1d3d81b8728fda772cfb0d54bccf1d7e6bcaab32c01c1f3a", [:mix], [{:earmark, "~> 0.1.17 or ~> 0.2", [hex: :earmark, optional: true]}]},
-  "gpb": {:git, "https://github.com/tomas-abrahamsson/gpb", "d42335952e6c48d432ce52c6e13cf78c03ce411d", [branch: "proto3"]}}
+  "gpb": {:hex, :gpb, "3.22.3", "5dda85595d69225c92ed1b169546dd06956859cc385c8209a753c21c0becf1de", [:rebar, :make], []}}
